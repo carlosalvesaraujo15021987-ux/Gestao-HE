@@ -1,0 +1,7 @@
+{
+  "name": "LogiAnalytics Pro - Gestão de Horas Extras",
+  "description": "Plataforma avançada para análise de logística e controle de horas extras, com dashboards interativos, rankings de motoristas e relatórios PDF automáticos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
